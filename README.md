@@ -13,6 +13,7 @@ Processing Work
 마우스 움직임에 따라 나무 모양이 바뀝니다.
 
 ## KIRAKIRA File
+Library를 통해 Video 2.0을 설치해야 합니다.
 
 ## ForBounce File
 ![image](https://github.com/Junst/Processing/blob/main/Processing_Assignment_ForBounce/kero%20bounce.gif)
